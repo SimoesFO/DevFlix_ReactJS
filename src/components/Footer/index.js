@@ -10,7 +10,7 @@ function Footer() {
       <p>
         By
         {' '}
-        <a target="_Blank" href="https://br.linkedin.com/in/felipeoliveirasimoes">
+        <a target="_blank" rel="noopener noreferrer" href="https://br.linkedin.com/in/felipeoliveirasimoes">
           Felipe O. Simões
         </a>
       </p>
